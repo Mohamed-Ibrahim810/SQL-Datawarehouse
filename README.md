@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a data warehouse solution to centralize and organize data from various sources. It includes processes for data cleaning, transformation, and integration to create a unified data repository.
+This project implements a data warehouse solution to centralize and organize data from various sources, It includes processes for data cleaning, transformation, and integration to create a unified data repository.
 The project brings together multiple data domains (customers, products, sales, locations) into a cohesive structure optimized for business intelligence and reporting.
 
 ## Project Structure
